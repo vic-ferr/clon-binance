@@ -73,8 +73,6 @@ Dependencias:
 
 - [axios](https://axios-http.com/)
 
-- [<img width="20" height="20" src="https://img.icons8.com/color/20/redux.png" alt="redux"/> redux](https://redux.js.org/) y [<img width="20" height="20" src="https://img.icons8.com/color/20/redux.png" alt="redux"/> toolkit](https://redux-toolkit.js.org/)
-
 ### BackEnd
 
 - [<img width="20" height="20" src="https://img.icons8.com/color/20/nodejs.png" alt="nodejs"/> NodeJS](https://nodejs.org/en)
